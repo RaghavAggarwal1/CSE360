@@ -12,30 +12,30 @@ package cse360assignment02;
 public class AddingMachine {
 	private int total;
 	  
-	//function to add total
+	//Meathod to add total
 	  public AddingMachine () {
 	    total = 0;  // not needed - included for clarity
 	  }
 	  
-	  //Function to get value of total
+	  //Meathod to get value of total
 	  public int getTotal () {
 	    return 0;
 	  }
 	  
-	  //Function to add
+	  //Meathod to add
 	  public void add (int value) {
 	  }
 
-	  //function to add
+	  //Meathod to add
 	  public void subtract (int value) {
 	  }
 
-	  //function to get string
+	  //Meathod to get string
 	  public String toString () {
 	    return "";
 	  }
 	  
-	  //function to clear screen
+	  //Meathod to clear screen
 	  public void clear() {
 	  }
 }
